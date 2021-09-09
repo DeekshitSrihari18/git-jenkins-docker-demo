@@ -10,4 +10,9 @@ public class App
     {
         System.out.println( "Welcome to this jenkins section " );
     }
+    
+    public void message() {
+    	System.out.println("Good Morning");
+    	
+    }
 }
